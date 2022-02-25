@@ -1,2 +1,2 @@
-# Exploratory_Data_Analysis_Projects
+# Exploratory Data Analysis Projects
 Data Science Class Coursera
