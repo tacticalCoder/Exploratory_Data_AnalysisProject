@@ -2,7 +2,7 @@ library("data.table")
 
 setwd("~/Desktop/NewR/Data/project-1/")
 
-#Reads in data from file then subsets data for specified dates
+# Read in data from data set, remove N/A's
 power_data_table <- data.table::fread(input = "household_power_consumption.txt", na.strings="?")
 
 # Prevents Scientific Notation
